@@ -53,7 +53,7 @@ function Tile(x, y, size, qt) {
     stroke(240);
     strokeWeight(1)
     rect(0, 0, this.size, this.size);
-    stroke(81,40,136);
+    stroke(0);
     //fill(81,40,136)
     strokeWeight(5)
     //triangle(0, 0, this.size, 0, 0, this.size);
